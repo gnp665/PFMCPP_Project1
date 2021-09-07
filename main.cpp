@@ -53,83 +53,83 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 //  1)
 //  Noun: engineer
-//  action 1: the engineer analyzes the problem
+//  action 1:   the engineer analyzes the problem
 engineer.analyzeTheProblem();
-//  action 2: the engineer designs the solution
+//  action 2:   the engineer designs the solution
 engineer.designTheSolution();
-//  action 3: the engineer integrates and tests design
+//  action 3:   the engineer integrates and tests design
 engineer.integrateAndTest(); 
 //  2)
 //  Noun: child
-//  action 1: the child crawls
+//  action 1:   the child crawls
 child.crawl();
-//  action 2: the child walks
+//  action 2:   the child walks
 child.walk();
-//  action 3: the child runs
+//  action 3:   the child runs
 child.run();
 //  3)
 //  Noun: frog
-//  action 1: the frog jumps
+//  action 1:   the frog jumps
 frog.jump();
-//  action 2: the frog swims
+//  action 2:   the frog swims
 frog.swim();
-//  action 3: the frog croaks
+//  action 3:   the frog croaks
 frog.croak();
 //  4)
 //  Noun: blogger
-//  action 1: the blogger creates valuable content
+//  action 1:   the blogger creates valuable content
 blogger.createValuableContent();
-//  action 2: the blogger shares a lead magnet
+//  action 2:   the blogger shares a lead magnet
 blogger.shareLeadMagnet();
-//  action 3: the blogger grows an email list
+//  action 3:   the blogger grows an email list
 blogger.growEmailList();
 //  5)
 //  Noun: educator
-//  action 1: the educator explains the "why"
+//  action 1:   the educator explains the "why"
 educator.explainTheWhy();
-//  action 2: the educator teaches the "what"
+//  action 2:   the educator teaches the "what"
 educator.teachTheWhat();
-//  action 3: the educator demonstrates the "how"
+//  action 3:   the educator demonstrates the "how"
 educator.demoTheHow();
 //  6)
 //  Noun: Cinderella
-//  action 1: Cinderella goes to the ball
+//  action 1:   Cinderella goes to the ball
 cinderella.goToBall();
-//  action 2: Cinderella meets a handsome prince
+//  action 2:   Cinderella meets a handsome prince
 cinderella.meetHandsomePrince();
-//  action 3: Cinderella live happily ever after
+//  action 3:   Cinderella live happily ever after
 cinderella.liveHappilyEverAfter();
 //  7)
 //  Noun: firewall
-//  action 1: the firewall parses ingress packets
+//  action 1:   the firewall parses ingress packets
 firewall.parseIngressPkts();
-//  action 2: the firewall parses egress packets
+//  action 2:   the firewall parses egress packets
 firewall.parseEgressTraffic();
-//  action 3: the firewall blocks invalid packets
+//  action 3:   the firewall blocks invalid packets
 firewall.blockInvalidPkts();
 //  8)
 //  Noun: clown
-//  action 1: the clown laughs
+//  action 1:   the clown laughs
 clown.laugh();
-//  action 2: the clown juggles
+//  action 2:   the clown juggles
 clown.juggle();
-//  action 3: the clown creeps people out
+//  action 3:   the clown creeps people out
 clown.peopleCreepOut(); 
 //  9)
-//  Noun: pilot
-//  action 1: the pilot starts plane
-pilot.startPlane();
-//  action 2: the pilot takes off plane
-pilot.takeOffPlane();
-//  action 3: the pilot lands the plane
-pilot.landPlane();
+//  Noun: audioEngineer
+//  action 1:   the audio engineer tracks the song
+audioEngineer.tracksSong();
+//  action 2:   the audio engineer mixes the song
+audioEngineer.mixesSong();
+//  action 3:   the audio engineer masters the song
+audioEngineer.mastersSong();
 //  10)
 //  Noun: cat
-//  action 1: the cat eats
+//  action 1:   the cat eats
 cat.eat();
-//  action 2: the cat sleeps
+//  action 2:   the cat sleeps
 cat.sleep();
-//  action 3: the cat catches a mouse
+//  action 3:   the cat catches a mouse
 cat.catchMouse();
 
 
